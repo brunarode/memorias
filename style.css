@@ -2,17 +2,20 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Comic Sans MS', cursive;
-    background-image: url('IMG_3140.jpeg');
-    background-size: cover;
-    background-position: center;
+
 }
 
 .boas-vindas {
-     background-image: url('capsula\ do\ tempo.jpg');
+    margin: 0;
+    padding: 0;
+    background-image: url('capsula\ do\ tempo.jpg');
     background-size: cover;
     background-position: center;
 }
 .linhadotempo-container {
+    background-image: url('IMG_3140.jpeg');
+    background-size: cover;
+    background-position: center;
     padding: 40px
 }
 
