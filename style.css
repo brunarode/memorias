@@ -15,9 +15,9 @@ body {
 }
 
 .linhadotempo-container {
-    padding: 40px
-}
-
+    padding: 40px;
+ }   
+ 
 h1 {
     text-align: center;
     text-overflow: 2px 2px 5px rgb(204, 159, 166);
@@ -27,6 +27,7 @@ h1 {
 }
 
 .linhadotempo {
+    padding: 40px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
