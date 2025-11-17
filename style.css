@@ -9,8 +9,9 @@ body {
 
 .boas-vindas 
 {
-    padding: 40px
-    font-family: 'Comic Sans MS', cursive;
+background-image: url('IMG_3140.jpeg');
+    background-size: cover;
+    background-position: center
 }
 .linhadotempo-container {
     padding: 40px
