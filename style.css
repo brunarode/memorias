@@ -10,7 +10,7 @@ body {
 .boas-vindas {
      background-image: url('capsula\ do\ tempo.jpg');
     background-size: cover;
-    background-position: center
+    background-position: center;
 }
 .linhadotempo-container {
     padding: 40px
