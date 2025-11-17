@@ -1,28 +1,26 @@
-body {
+dy {
     margin: 0;
     padding: 0;
     font-family: 'Comic Sans MS', cursive;
-
-}
-
-.boas-vindas {
-    height: 100vh; 
-    width: 100%;
-    background-image: url('capsula do tempo.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    display: flex;
-}
-}
-
-.linhadotempo-container {
-    margin: 0;
-    padding: 0;
     background-image: url('IMG_3140.jpeg');
     background-size: cover;
     background-position: center;
+}
+
+.boas-vindas 
+{
     padding: 40px
+    font-family: 'Comic Sans MS', cursive;
+}
+.linhadotempo-container {
+    padding: 40px
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #ffb7db;
+    margin-bottom: 60px;
 }
 
 .linhadotempo {
@@ -71,4 +69,3 @@ body {
     margin-top: 10px;
     font-size: 14px;
     color: #333;
-}
