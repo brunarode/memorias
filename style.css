@@ -20,15 +20,11 @@ body {
 
 h1 {
     text-align: center;
+    text-overflow: 2px 2px 5px rgb(204, 159, 166);
     font-size: 36px;
     color: #ffb7db;
     margin-bottom: 60pxv;
 }
-
-@font-face {
-    font-family:"MyFont";
-    src: url("adelia.zip");
- }   
 
 .linhadotempo {
     display: flex;
