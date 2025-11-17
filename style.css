@@ -7,6 +7,9 @@ body {
     background-position: center;
 }
 
+header {
+ background-image: url();
+}
 .linhadotempo-container {
     padding: 40px
 }
