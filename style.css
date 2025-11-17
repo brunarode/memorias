@@ -7,9 +7,8 @@ body {
     background-position: center;
 }
 
-.timeline-container {
-    padding: 40px;
-    backdrop-filter: blur(2px);
+.linhadotempo-container {
+    padding: 40px
 }
 
 .titulo {
@@ -19,7 +18,7 @@ body {
     margin-bottom: 60px;
 }
 
-.timeline {
+.linhadotempo {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
