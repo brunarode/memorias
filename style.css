@@ -61,6 +61,7 @@ h1 {
 
 .lugar {
     display: inline-block;
+    text-transform: capitalize;
     margin-top: 10px;
     padding: 4px 10px;
     background: white;
